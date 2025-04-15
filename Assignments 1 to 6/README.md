@@ -1,4 +1,6 @@
-🚀 Project-4-Assignments: Python Mini-Projects Collection 🐍
+🚀 Project-4-Assignments:
+
+Python Mini-Projects Collection 🐍
 This repository features a collection of 6 beginner-friendly Python assignments and 9 exciting Python projects. It’s designed to help you master fundamental programming concepts through interactive coding challenges, ranging from games to web applications.
 
 📌 Assignments 1 to 6 📝
