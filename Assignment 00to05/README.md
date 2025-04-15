@@ -20,9 +20,7 @@ A collection of beginner-friendly Python assignments covering fundamental progra
 2. Navigate to any assignment folder:
    ```bash
    cd Assignments-00-to-05/02_lists
-
    Run Python files:
-
 python main.py
 
 🧠 Learning Path
