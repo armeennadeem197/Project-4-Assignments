@@ -1,5 +1,7 @@
 🚀 Project-4-Assignments: Python Mini-Projects Collection 🐍
+
 This repository contains 6 beginner-friendly Python assignments 🎓 and 9 exciting Python projects 🔥 that cover fundamental programming concepts through interactive coding challenges.
+
 
 📌 Assignments 1 to 6
 ✅ Assignment 1: Mad Libs Python Project – Create funny stories using user input.
@@ -8,6 +10,7 @@ This repository contains 6 beginner-friendly Python assignments 🎓 and 9 excit
 ✅ Assignment 4: Rock, Paper, Scissors – Classic game using Python logic.
 ✅ Assignment 5: Hangman – Word guessing game with a limited number of tries.
 ✅ Assignment 6: Countdown Timer – A simple timer using Python’s time module.
+
 
 🎯 Python Projects Collection
 🌟 Project 1-9:
@@ -20,6 +23,7 @@ This repository contains 6 beginner-friendly Python assignments 🎓 and 9 excit
 7️⃣ Random Password Generator – Generates secure random passwords.
 8️⃣ BMI Calculator (Streamlit) – A simple web app to calculate Body Mass Index (BMI).
 9️⃣ Build a Python Website in 15 Minutes (Streamlit) – A quick guide to building a Python-powered website.
+
 
 🎯 Why These Projects?
 🚀 Hands-on learning – Covers fundamental programming concepts.
