@@ -105,12 +105,3 @@ This project helps in understanding:
 💡 Final Thoughts
 The Get List App is a beginner-friendly Python project that demonstrates list handling, user input loops, and printing lists.
 Perfect for Python beginners exploring loops and user input! 🚀
-
-
-
-
-
-
-
-python main.py
-
