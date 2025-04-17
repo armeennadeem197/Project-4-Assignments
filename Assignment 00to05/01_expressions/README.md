@@ -120,7 +120,7 @@ project_name/
 
 ## 🙌 Built With ❤️ By
 
-**Amna Khalil**  
+**Armeen Nadeem**  
 As part of beginner Python programming practice for logic building and confidence in clean, readable, and reusable code.
 
 ---
