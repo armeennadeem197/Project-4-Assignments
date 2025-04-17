@@ -81,7 +81,7 @@ README.md    # Project documentation
 ---
 
 ## 👩‍💻 Author
-Amna Khalil — 2025
+Armeen Nadeem — 2025
 
 Feel free to use or modify this project for learning or teaching purposes.
 
