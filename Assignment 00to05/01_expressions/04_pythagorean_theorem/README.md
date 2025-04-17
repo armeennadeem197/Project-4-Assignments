@@ -50,7 +50,7 @@ BC (hypotenuse) = √(3² + 4²) = 5.00
 - `README.md` — Project documentation
 
 ## 👩‍💻 Author
-Amna Khalil
+Armeen Nadeem
 
 ---
 Made with ❤️ and Python!
