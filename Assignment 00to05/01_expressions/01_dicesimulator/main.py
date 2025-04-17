@@ -1,6 +1,6 @@
 """
 Program: dice_simulator.py
-Author: Amna Khalil
+Author: Armeen Nadeem
 ----------------------
 This program simulates rolling two dice three times.
 It demonstrates how variable scope works in Python.
