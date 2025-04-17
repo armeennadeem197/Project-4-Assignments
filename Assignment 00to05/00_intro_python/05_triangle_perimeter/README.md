@@ -59,5 +59,5 @@ pip install termcolor
 ---
 
 ## 👤 Author
-**Amna Khalil**  
+**Armeen Nadeem**  
 Python Beginner | Web Developer | 
