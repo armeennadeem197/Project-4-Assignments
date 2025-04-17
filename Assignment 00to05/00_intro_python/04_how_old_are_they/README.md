@@ -37,7 +37,7 @@ Solve an age-related riddle using basic Python variables and print statements:
 
 ## ✍️ Author
 
-Made with ❤️ by **Amna Khalil**
+Made with ❤️ by **Armeen Nadeem**
 
 ---
 
