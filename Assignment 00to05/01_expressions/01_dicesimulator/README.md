@@ -65,7 +65,7 @@ python dice_simulator.py
 ---
 
 ## 👤 Author
-**Name:** Amna Khalil  
+**Name:** Armeen Nadeem 
 **Project:** Dice Simulator  
 ---
 
