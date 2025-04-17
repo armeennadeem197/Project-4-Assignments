@@ -12,7 +12,7 @@ It is specially improved for **error handling**, **user input validation**, and 
 - 🔁 Option to run the program again
 - ✅ Robust error handling for invalid inputs
 - 🎨 Colored terminal output using `termcolor` (optional but stylish)
-- 👩‍💼 Developed by: **Amna Khalil**
+- 👩‍💼 Developed by: **Armeen Nadeem**
 
 ---
 
@@ -33,7 +33,7 @@ It is specially improved for **error handling**, **user input validation**, and 
 
 ```bash
 🕷️ Welcome to the Add Two Numbers Program! 🕷️
-👩‍💼 Created by: Amna Khalil
+👩‍💼 Created by: Armeen Nadeem
 
 🟡 Enter the first number: 12
 🟡 Enter the second number: 18
@@ -82,8 +82,8 @@ pip install termcolor
 
 ## 🤝 Author
 
-**Amna Khalil**  
-Student at GIAIC | SMIT  
+**Armeen Nadeem**  
+Student at GIAIC 
 Passionate about Python, Web Development, and Building Awesome Projects 💻
 
 ---
