@@ -32,5 +32,5 @@ pip install termcolor
 6. The loop continues until the user chooses to exit.
 
 👩‍💻 Author
-Amna Khalil
+Armeen Nadeem
 Built with 💙 for learning and teaching.
