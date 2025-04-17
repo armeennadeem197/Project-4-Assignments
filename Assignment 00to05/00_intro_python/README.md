@@ -1,6 +1,6 @@
 # 🐍 Python Mini Projects Collection
 
-Welcome to the **Python Mini Projects Collection** by *Amna Khalil*! 🎉  
+Welcome to the **Python Mini Projects Collection** by *Armeen Nadeem*! 🎉  
 This repository includes 6 beginner-friendly Python programs, each designed to strengthen your understanding of basic Python concepts like variables, input/output, conditionals, loops, and formatting.
 
 ---
@@ -100,9 +100,9 @@ pip install termcolor
 
 ## 👩‍💻 Author
 
-**Amna Khalil**  
+**Armeen Nadeem**  
 Python Learner | Web Developer | Educator  
-🌐 *GIAIC & SMIT Student*
+🌐 *GIAIC  Student*
 
 ---
 
